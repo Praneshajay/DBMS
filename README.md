@@ -4,9 +4,6 @@ Thanks for visiting my GitHub account!
 
 <img src ="https://www.svgrepo.com/show/525311/database.svg" height = "200px" width = "200px"/> **Database Management Systems (DBMS)** are software systems used to store, retrieve, and run queries on data. A DBMS serves as an interface between an end-user and a database, allowing users to create, read, update, and delete data in the database.. [see-more](https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/)
 
-- Download the Full Source Code. visit -> https://mega.nz/folder/oX9jXJAJ#Dh5dpdMGB5SZZ2Dsqe1E6g
-- Download Software. visit -> https://mega.nz/file/EHUDDDrQ#HvsoZvjVc9UoLkCVfdDLT0KV0tZ93lR16C-geBGUtiM
-
 ## Download Online
 
 - visit ->https://www.microsoft.com/en-us/download/details.aspx?id=101064
